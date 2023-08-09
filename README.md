@@ -7,7 +7,7 @@ applications.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmed.khaled.sayed2000@gmail.com)](mailto:ahmed.khaled.sayed2000@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201061748098&text=Olá!)](https://api.whatsapp.com/send?phone=+201061748098&text=Hi!🖖)
 
-<br># :man_technologist: Knowledges<br>
+# :man_technologist: Knowledges<br>
 
 ## TECHNICAL SKILLS:
 • Flutter framework and Dart programming language.<br>
