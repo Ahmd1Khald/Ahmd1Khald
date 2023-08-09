@@ -1,16 +1,42 @@
-### Hi there 👋
+# 🖖 there, I'm a flutter developer
 
-<!--
-**Ahmd1Khald/Ahmd1Khald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Highly motivated and talented Computer Science graduate with a passion for mobile app development, specifically Flutter. Seeking
+an entry-level Flutter developer position to apply my skills and knowledge in creating innovative and user-friendly mobile
+applications.
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ahmed.khaled.sayed2000@gmail.com)](ahmed.khaled.sayed2000@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201061748098&text=Olá!)](https://api.whatsapp.com/send?phone=+201061748098&text=Hi!🖖)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :man_technologist: Knowledges
+
+## TECHNICAL SKILLS:
+• Flutter framework and Dart programming language.
+• State management (Cubit).
+• RESTful APIs.
+• Firebase (Firestore, Authentication, FCM).
+• MVVM and Clean Architecture.
+• Git version control.
+• Have a good experience in problem solving skills and Solved +400 problems on online judges like(Codeforces).
+
+## Frameworks
+![Flutter]([https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js](https://cdn.arstechnica.net/wp-content/uploads/2018/06/7-2-1.jpg))
+
+## Design
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
+![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
+
+
+## Database
+![Sqflite](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Hive](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](![image](https://github.com/Ahmd1Khald/Ahmd1Khald/assets/102539416/6409eb32-1290-482a-9128-02c4072f0d00)
+)
+
+## Deploy
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+## Editors
+![Android Studio](data:image/jpeg;base64,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)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
