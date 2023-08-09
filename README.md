@@ -37,5 +37,5 @@ applications.
 
 
 ## Editors
-![Android Studio](https://img.shields.io/badge/-Andriod-black?style=flat-square&logo=andriod-studio)
+![Android Studio](https://img.shields.io/badge/-Andriod_Studio-blue?style=flat-square&logo=andriod-studio)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
