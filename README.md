@@ -27,8 +27,8 @@ applications.
 
 
 ## Database
-![Sqflite](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Hive](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Sqflite](https://img.shields.io/badge/-SQLITE-black?style=flat-square&logo=sqlite)
+![Hive](https://img.shields.io/badge/-HIVE-black?style=flat-square&logo=hive)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 ## Deploy
@@ -37,5 +37,5 @@ applications.
 
 
 ## Editors
-![Android Studio](https://img.shields.io/badge/-Andriod-Studio-black?style=flat-square&logo=andriod-studio)
+![Android Studio](https://img.shields.io/badge/-Andriod-black?style=flat-square&logo=andriod-studio)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
