@@ -9,7 +9,7 @@ applications.
 
 # :man_technologist: Knowledges
 
-## TECHNICAL SKILLS:
+## Technical Skills
 • Flutter framework and Dart programming language.<br>
 • State management (Cubit).<br>
 • RESTful APIs.<br>
