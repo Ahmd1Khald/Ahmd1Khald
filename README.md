@@ -10,13 +10,13 @@ applications.
 # :man_technologist: Knowledges
 
 ## TECHNICAL SKILLS:
-#• Flutter framework and Dart programming language.
-#• State management (Cubit).
-#• RESTful APIs.
-#• Firebase (Firestore, Authentication, FCM).
-#• MVVM and Clean Architecture.
-#• Git version control.
-#• Have a good experience in problem solving skills and Solved +400 problems on online judges like(Codeforces).
+• Flutter framework and Dart programming language.<br>
+• State management (Cubit).
+• RESTful APIs.
+• Firebase (Firestore, Authentication, FCM).
+• MVVM and Clean Architecture.
+• Git version control.
+• Have a good experience in problem solving skills and Solved +400 problems on online judges like(Codeforces).
 
 ## Frameworks
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
