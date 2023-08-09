@@ -4,19 +4,20 @@ Highly motivated and talented Computer Science graduate with a passion for mobil
 an entry-level Flutter developer position to apply my skills and knowledge in creating innovative and user-friendly mobile
 applications.
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ahmed.khaled.sayed2000@gmail.com)](ahmed.khaled.sayed2000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmed.khaled.sayed2000@gmail.com)](mailto:ahmed.khaled.sayed2000@gmail.com)
+
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201061748098&text=Olá!)](https://api.whatsapp.com/send?phone=+201061748098&text=Hi!🖖)
 
 # :man_technologist: Knowledges
 
 ## TECHNICAL SKILLS:
-• Flutter framework and Dart programming language.
-• State management (Cubit).
-• RESTful APIs.
-• Firebase (Firestore, Authentication, FCM).
-• MVVM and Clean Architecture.
-• Git version control.
-• Have a good experience in problem solving skills and Solved +400 problems on online judges like(Codeforces).
+#• Flutter framework and Dart programming language.
+#• State management (Cubit).
+#• RESTful APIs.
+#• Firebase (Firestore, Authentication, FCM).
+#• MVVM and Clean Architecture.
+#• Git version control.
+#• Have a good experience in problem solving skills and Solved +400 problems on online judges like(Codeforces).
 
 ## Frameworks
 ![Flutter]([https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js](https://cdn.arstechnica.net/wp-content/uploads/2018/06/7-2-1.jpg))
