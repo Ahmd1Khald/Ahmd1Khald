@@ -29,8 +29,7 @@ applications.
 ## Database
 ![Sqflite](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Hive](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](![image](https://github.com/Ahmd1Khald/Ahmd1Khald/assets/102539416/6409eb32-1290-482a-9128-02c4072f0d00)
-)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 ## Deploy
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
