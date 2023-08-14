@@ -1,8 +1,6 @@
 # 🖖 there, I'm a flutter developer
 
-Highly motivated and talented Computer Science graduate with a passion for mobile app development, specifically Flutter. Seeking
-an entry-level Flutter developer position to apply my skills and knowledge in creating innovative and user-friendly mobile
-applications.
+A Computer Science graduate who is highly motivated and talented, with a passion for mobile app development particularly using Flutter. I am currently looking for an entry level position, as a Flutter developer where I can apply my skills and expertise in creating user friendly applications.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmed.khaled.sayed2000@gmail.com)](mailto:ahmed.khaled.sayed2000@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201061748098&text=Olá!)](https://api.whatsapp.com/send?phone=+201061748098&text=Hi!🖖)
