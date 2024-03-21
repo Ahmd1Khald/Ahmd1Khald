@@ -9,7 +9,7 @@ A Computer Science graduate who is highly motivated and talented, with a passion
 
 ## Technical Skills
 • Flutter framework and Dart programming language.<br>
-• State management (Cubit).<br>
+• State management (Cubit-Provider).<br>
 • RESTful APIs.<br>
 • Firebase (Firestore, Authentication, FCM).<br>
 • MVVM and Clean Architecture.<br>
