@@ -5,7 +5,7 @@ I specialize in building responsive, scalable, and user-friendly applications us
 
 I’m currently seeking an opportunity to grow, contribute, and collaborate on real-world projects.
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmed.khaled.sayed2000@gmail.com)](mailto:ahmed.khaled.sayed2000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedkhaldsayed@gmail.com)](mailto:ahmedkhaldsayed@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201061748098&text=Olá!)](https://api.whatsapp.com/send?phone=+201061748098&text=Hi!🖖)
 
 ---
