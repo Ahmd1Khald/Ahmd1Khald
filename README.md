@@ -1,4 +1,4 @@
-# 🖖 Hello there, I'm a Flutter & .NET Developer
+# 🖖 Hello there, I'm a Software engineer
 
 I'm a passionate and highly motivated Computer Science graduate with strong experience in both mobile and web/desktop development.  
 I specialize in building responsive, scalable, and user-friendly applications using Flutter and .NET technologies.
